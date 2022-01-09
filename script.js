@@ -79,5 +79,3 @@ form.addEventListener("submit", function (e) {
     window.location.reload();
   }
 });
-
-
