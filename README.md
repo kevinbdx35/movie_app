@@ -1,4 +1,4 @@
-<img src="./img/movie_app.png" alt="Logo of the project" align="right">
+<img src="./img/movie_app2.png" alt="Logo of the project" align="center">
 
 # Movie App
 
