@@ -29,4 +29,6 @@ The API comes from the site https://www.themoviedb.org.
 You must have an account to obtain your API key.
 Here the documentation about this API https://developers.themoviedb.org/3/getting-started/introduction
 
+
+<img src="https://github.com/kevinbdx35/movie_app/blob/main/screen-capture-gif.gif?raw=true" alt="Logo of the project" align="center">
 <img src="./img/movie_app2.png" alt="Logo of the project" align="center">
